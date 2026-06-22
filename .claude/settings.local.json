@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(New-Item -ItemType Directory -Force \"D:\\\\Claude\\\\Tenis App\\\\src\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"D:\\\\Claude\\\\Tenis App\\\\public\")",
+      "Bash(npm install *)",
+      "PowerShell(Get-Command node -ErrorAction SilentlyContinue; Get-Command npm -ErrorAction SilentlyContinue; [System.Environment]::GetEnvironmentVariable\\(\"Path\", \"Machine\"\\) -split \";\" | Select-String -Pattern \"node|npm\" -SimpleMatch)"
+    ]
+  }
+}
