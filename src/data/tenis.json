@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Nike Pegasus 41",
+    "marca": "Nike",
+    "categoria": "asfalto",
+    "drop": 10,
+    "pisada_indicada": "neutro",
+    "versatilidade_visual": 4,
+    "preco": 799,
+    "categoria_preco": "intermediario",
+    "durabilidade_km": 700,
+    "entressola": "equilibrada"
+  },
+  {
+    "nome": "Brooks Adrenaline GTS 23",
+    "marca": "Brooks",
+    "categoria": "asfalto",
+    "drop": 12,
+    "pisada_indicada": "suporte",
+    "versatilidade_visual": 3,
+    "preco": 1099,
+    "categoria_preco": "premium",
+    "durabilidade_km": 800,
+    "entressola": "equilibrada"
+  },
+  {
+    "nome": "Salomon Speedcross 6",
+    "marca": "Salomon",
+    "categoria": "trilha",
+    "drop": 10,
+    "pisada_indicada": "neutro",
+    "versatilidade_visual": 2,
+    "preco": 1199,
+    "categoria_preco": "premium",
+    "durabilidade_km": 600,
+    "entressola": "firme"
+  },
+  {
+    "nome": "Saucony Ride 17",
+    "marca": "Saucony",
+    "categoria": "asfalto",
+    "drop": 8,
+    "pisada_indicada": "neutro",
+    "versatilidade_visual": 3,
+    "preco": 699,
+    "categoria_preco": "intermediario",
+    "durabilidade_km": 650,
+    "entressola": "macia"
+  }
+]

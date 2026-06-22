@@ -64,8 +64,10 @@ Não é "barato ou caro". É comparação de valor:
 - Pelo que esse tênis entrega, o preço compensa?
 - Existem opções iguais ou melhores na mesma faixa de preço?
 
-### 3º — Durabilidade (secundário)
-Importa, mas não é decisivo. Entra como peso menor na conta.
+### 3º — Lesão / compatibilidade
+Histórico de dor ou lesão cruzado com o tipo de superfície do tênis. Se houver risco de incompatibilidade (ex: tênis de trilha pra quem usa asfalto com histórico de tornozelo), o app deduz pontos do veredito.
+
+**Sobre durabilidade:** na Fase 1, ela **não é um critério pontuado**. Aparece como aviso qualitativo — quando o perfil do corredor sugere desgaste mais rápido (ex: corredor mais pesado com tênis casual), o app exibe um alerta, mas isso não altera a nota numérica diretamente.
 
 > Esses critérios ainda vão ser aprofundados. Isto é o esqueleto inicial, não a versão final.
 
